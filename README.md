@@ -1,4 +1,4 @@
-CLI-bank
+Print-diamond-to-CLI
 ========================
 
 Installation
